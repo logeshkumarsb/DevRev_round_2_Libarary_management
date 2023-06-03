@@ -6,4 +6,4 @@
    -Js</br>
    -GitHub</br>
 # Project ScreenShots
-   <img src="images/homepage.png" width="500" height="600">
+   <img src="homepage.png" width="500" height="600">
