@@ -6,4 +6,4 @@
    -Js</br>
    -GitHub</br>
 # Project ScreenShots
-   <img src="C:\Users\Logesh Kumar S\OneDrive\Desktop\projectImages\homepage.png" alt="Girl in a jacket" width="500" height="600">
+   <img src="omepage.png" width="500" height="600">
